@@ -18,10 +18,12 @@ Run ApplicationMain.
 How it works:
 Every 0.5 seconds a screen is taken and all the points on the screens that were not there in the previous screen are found.
 And an array is built with identical objects in 2 screenshots.
-Where: 
+Where:
+=
 1 - same.
+=
 0 - different.
-=====================================================================================================================
+=
 ![Image alt](https://github.com/b1rr0/QuantRpMasonAutoclicker/blob/master/map.png)
 
 Now it has come down to a problem about islands and finding the maximum island.
