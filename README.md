@@ -1,2 +1,1 @@
-123
-![My photo] (./image.png "
+![Image alt](https://github.com/b1rr0/QuantRpMasonAutoclicker/blob/master/README.md)
