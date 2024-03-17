@@ -1,4 +1,4 @@
-This app helps players progress through the game of finding stones. An example of work that was automated
+This app helps players progress through the game of finding stones. An example of work that was automated https://youtu.be/aOOujdYdk9c?t=296
 =====================
 
 ![Image alt](https://github.com/b1rr0/QuantRpMasonAutoclicker/blob/master/images/gameScreen.png)
