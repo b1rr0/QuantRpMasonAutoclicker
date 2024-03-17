@@ -1,12 +1,12 @@
 This app helps players progress through the game of finding stones.
 =====================
 
-![Image alt](https://github.com/b1rr0/QuantRpMasonAutoclicker/blob/master/images/OnlineScreen.png)
+![Image alt](https://github.com/b1rr0/QuantRpMasonAutoclicker/blob/master/images/gameScreen.png)
 Open the game at 800 x 600  (in this respect the stones are larger).
 Then launch the application and it will search for pictures of stones on the screen and automatically click on them.
 =====================================================================================================================
 
-![Image alt](https://github.com/b1rr0/QuantRpMasonAutoclicker/blob/master/image.png](https://github.com/b1rr0/QuantRpMasonAutoclicker/blob/master/images/gameScreen.png)
+![Image alt](https://github.com/b1rr0/QuantRpMasonAutoclicker/blob/master/images/onlineScreen.png)
 
 The application also checks that you are not currently in the open world by the presence of these fields
 =====================================================================================================================
