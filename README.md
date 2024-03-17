@@ -1,5 +1,7 @@
 This app helps players progress through the game of finding stones.
-\n
+
+
+
 Open the game at 800 x 600  (in this respect the stones are larger).
 =
 
