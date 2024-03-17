@@ -8,11 +8,9 @@ Then launch the application and it will search for pictures of stones on the scr
 
 ![Image alt](https://github.com/b1rr0/QuantRpMasonAutoclicker/blob/master/image.png)
 
-The application also checks that you are not currently in the open world by the presence of these fields ^^
+The application also checks that you are not currently in the open world by the presence of these fields
 =====================================================================================================================
 
-
-=====================================================================================================================
 
 How it works:
 Every 0.5 seconds a screen is taken and all the points on the screens that were not there in the previous screen are found.
@@ -31,3 +29,4 @@ Next, hover the mouse and click on the maximum island.
 
 To use:
 run ApplicationMain.main().
+=====================================================================================================================
