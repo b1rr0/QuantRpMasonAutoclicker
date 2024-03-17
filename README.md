@@ -1,6 +1,7 @@
 This app helps players progress through the game of finding stones.
+=
 Open the game at 800 x 600  (in this respect the stones are larger).
-==================================================
+=
 
 ![Image alt](https://github.com/b1rr0/QuantRpMasonAutoclicker/blob/master/screen1.png)
 
